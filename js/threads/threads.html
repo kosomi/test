@@ -1,0 +1,57 @@
+<div class='container'>
+    <p>Am I here? My name is  {{username}} </p>
+    <p>Threads</p>
+
+    <form name="newThreadForm">
+        <input type="text" ng-model="newThreadTitle" placeholder="New thread title..." required/>
+        <button ng-click="createThread(username, newThreadTitle)" class='btn btn-success'>Add Thread</button>
+    </form>
+
+    <br>
+
+    <div ng-repeat="thread in threads | orderBy:'-timez' " class='list-group'> 
+        <div class='alert alert-success'>     
+        <a ng-href="#/threads/{{thread.$id}}">                
+        <span>{{ thread.title }}</span>
+        <span>(by {{ thread.username }})</span> 
+        </a>           
+            <div class='pull-right' ng-click='delete(thread)'>{{thread.timez | date}}</div>
+        </div>
+    </div>
+    <button onclick="window.location.href='/#/login'" class="btn btn-success btn-block">Back</button> 
+</div>
+<div>
+     
+</div>
+
+
+
+<!-- 
+
+<div class='container'>
+    <p>Am I here</p>
+    <p>Threads</p>
+
+    <form name="newThreadForm">
+        <input type="text" ng-model="newThreadTitle" placeholder="New thread title..." required/>
+        <button ng-disabled="newThreadForm.$invalid" ng-click="createThread(username, newThreadTitle)">Add Thread</button>
+    </form>
+
+    <br>
+
+    <div ng-repeat="thread in threads" class='list-group'>
+ 
+        <div class='alert alert-success'>     
+        <a ng-href="#/threads/{{thread.$id}}"  >                
+        <span>{{ thread.title }}</span>
+        <span>(by {{ thread.username }})</span> 
+        </a>           
+        </div>
+
+    </div>
+</div>
+
+
+
+
+ -->
