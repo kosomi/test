@@ -1,6 +1,6 @@
 window.env = {
 	"environment" : "development",
-	"firebase" : "https://welcometosir.firebaseio.com/chris"
+	"firebase" : "https://aaaaaaaaaaa.firebaseio.com/chris"
 }
 
 
@@ -9,7 +9,7 @@ window.env = {
 /*
 window.env = {
   "environment": "development",
-  "firebase": "https://welcometosir.firebaseio.com/chris"
+  "firebase": "https://dddddddddddddd.firebaseio.com/chris"
 };
 
 
