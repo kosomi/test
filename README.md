@@ -11,67 +11,36 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 
 ### Table of Contents
 [Books](#books)
-
 [Videos](#videos)
-
 [Courses](#courses)
-
 [Help](#help)
-
 [General Topics](#general-topics)
-
 [Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)
-
 [Curation](#curation)
-
 [Best Practices/Style Guides](#best-practicesstyle-guides)
-
 [Lessons Learned](#lessons-learned)
-
 [Boilerplates/Seed Projects](#boilerplatesseed-projects)
-
 [Multipart Articles](#multipart-articles)
-
 [Sample Apps](#sample-apps)
-
 [Scopes & Compile](#scopes--compile)
-
 [Dependency Injection](#dependency-injection)
-
 [Directives](#directives)
-
 [Services/Providers](#servicesproviders)
-
 [Routing](#routing)
-
 [Promises/Deferred](#promisesdeferred)
-
 [Forms](#forms)
-
 [Authentication](#authentication)
-
 [Collections](#collections--ngrepeat-stuff)
-
 [Code Organization](#code-organization)
-
 [Testing](#testing)
-
 [RESTful Stuff](#restful-stuff)
-
 [Localization](#localization)
-
 [UI Stuff](#ui-stuff)
-
 [Integration with Other Languages/Frameworks](#integration-with-other-languagesframeworks)
-
 [Hosted Backends](#integration-with-other-languagesframeworks)
-
 [Mobile](#mobile)
-
 [Popular Third-Party Modules](#popular-third-party-modules)
-
 [Test Editor Bundles](#text-editor-bundleside-stuff)
-
 [Development Tools](#development-tools)
 
 ## Books
@@ -711,4 +680,4 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 
 ## Development Tools
 * [AngularJS Batarang Chrome Extension](https://github.com/angular/angularjs-batarang)
-* [Scaffolding JSON or restful API to JavaScript and HTML using AngularJS and JQuery](http://spascaffold.azurewebsites.net/AngularJSScaffold) 
+* [Scaffolding JSON or restful API to JavaScript and HTML using AngularJS and JQuery](http://spascaffold.azurewebsites.net/AngularJSScaffold)
