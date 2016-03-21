@@ -11,19 +11,12 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 
 ### Table of Contents
 [Books](#books)
-
 [Videos](#videos)
-
 [Courses](#courses)
-
 [Help](#help)
-
 [General Topics](#general-topics)
-
 [Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)
-
 [Curation](#curation)
-
 [Best Practices/Style Guides](#best-practicesstyle-guides)
 
 [Lessons Learned](#lessons-learned)
